@@ -14,7 +14,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif" alt="Coding Animation" width="300" height="167.5"/>
+      <img src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif" alt="Coding Animation" width="300" height="167.5"/>
     </td>
   </tr>
 </table>
