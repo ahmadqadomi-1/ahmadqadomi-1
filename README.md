@@ -1,16 +1,36 @@
-## Hi there 👋
+# Welcome to Ahmad Al-Qadomi's GitHub!
 
-<!--
-**ahmadqadomi-1/ahmadqadomi-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Web Developer
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmadqadomi/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>🌟 I'm a <strong>Full Stack Web Developer</strong>, graduated from <strong>Orange Coding Academy</strong>.</li>
+        <li>🎓 I also hold a <strong>Master's in Nuclear Physics</strong> and a <strong>Translation degree</strong> from <strong>Yarmouk University</strong>.</li>
+        <li>💡 Passionate about technology, innovation, and using my front-end and back-end development skills to solve real-world problems.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Hello World Animation" width="300"/>
+    </td>
+  </tr>
+</table>
+
+### Languages and Tools:
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL Server"/>
+  <img src="https://img.icons8.com/fluency/48/000000/net-framework.png" alt=".NET"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/mvc.png" alt="ASP.NET MVC"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+</p>
