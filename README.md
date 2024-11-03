@@ -14,7 +14,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Hello World Animation" width="300"/>
+      <img src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif" alt="Coding Animation" width="300" height="167.5"/>
     </td>
   </tr>
 </table>
